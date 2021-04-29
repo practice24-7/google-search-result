@@ -44,6 +44,11 @@ a:hover {
     text-align: center;
 }
 
+#buttons ul {
+    text-align: center;
+    list-style: none;
+}
+
 #buttons li {
     display: inline-block;
     padding: 30px;
