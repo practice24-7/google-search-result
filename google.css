@@ -47,6 +47,10 @@ button:hover {
     border-color: #d3d3d3;
 }
 
+#green {
+    color:green;
+}
+
 #carbon {
     text-align: center;
     font-size: 18px;
