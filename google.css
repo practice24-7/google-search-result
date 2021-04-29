@@ -54,9 +54,11 @@ a:hover {
 #buttons li {
     display: inline-block;
     padding: 30px;
+    height: 60px;
+    width: 180px;
 }
 
-button {
+#search #lucky {
     background-color: #f1f1f1;
     border-style: none; 
     border-radius: 3px;
